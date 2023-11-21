@@ -1,0 +1,53 @@
+*{
+    font-size: 19px;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(https://img.freepik.com/foto-gratis/vista-angulo-hombre-musculoso-irreconocible-preparandose-levantar-barra-club-salud_637285-2497.jpg?w=740&t=st=1700012743~exp=1700013343~hmac=310c87d26559143e09ea84a8732f1f4e5cc5b72eb25c9155d0b19eb0ac8259ad);
+    background-size: cover;
+}
+h1{
+    position: relative;
+    left: 80px;
+    top: 5px;
+    color: #4c4848;
+    
+}
+#formulario{
+    padding: 30px;
+    align-items: center;
+    background-color: #f1f3f9d5;
+    height: 220px ;
+    width: 22%;
+    position: relative;
+    left: 490px;
+    top: 160px;
+    border-radius: 15px;
+}
+input{
+    background-color: #ffffff;
+    padding: 10px;
+    border: none;
+    position: relative;
+    left: 25px;
+    margin-top: 25px;
+    top: 15px;
+    border-radius: 10px;
+}
+::placeholder{
+    color: #4c4848;
+    position: relative;
+    
+}
+button{
+    position: relative;
+    left: 105px;
+    top: 40px;
+    height: 35px;
+    width: 90px;
+    border-radius: 10px;
+    border: none;
+    background-color: goldenrod;
+    color: black;
+}
